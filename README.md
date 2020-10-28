@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'am George 👋
 
 - 🔭 I’m currently working on my portfolio.
 - 🌱 I’m currently learning full-stack junior development. (HTML, CSS, JS, Jquery, Bootstrap, C# and microsoft SQLServer).
